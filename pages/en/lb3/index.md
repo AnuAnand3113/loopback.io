@@ -19,7 +19,7 @@ Install the LoopBack command-line interface (CLI) tool to create and modify Loop
 To install the LoopBack CLI tool, enter this command:
 
 ```
-npm install -g loopback-cli
+npm install -g loopback
 ```
 
 For more information, see [Installation](Installation).
